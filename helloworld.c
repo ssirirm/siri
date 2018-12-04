@@ -2,5 +2,6 @@
 int main()
 {
 printf("hello world \n")
+  printf("This is a devops class")
 return 0;
 }
